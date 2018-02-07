@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/luala_bg.qm</file>
+        <file alias="de">locale/luala_de.qm</file>
+        <file alias="en">locale/luala_en.qm</file>
+        <file alias="es">locale/luala_es.qm</file>
+        <file alias="fi">locale/luala_fi.qm</file>
+        <file alias="fr">locale/luala_fr.qm</file>
+        <file alias="it">locale/luala_it.qm</file>
+        <file alias="ja">locale/luala_ja.qm</file>
+        <file alias="pl">locale/luala_pl.qm</file>
+        <file alias="pt">locale/luala_pt.qm</file>
+        <file alias="ru">locale/luala_ru.qm</file>
+        <file alias="sk">locale/luala_sk.qm</file>
+        <file alias="sv">locale/luala_sv.qm</file>
+        <file alias="vi">locale/luala_vi.qm</file>
+        <file alias="zh_CN">locale/luala_zh_CN.qm</file>
+        <file alias="zh_TW">locale/luala_zh_TW.qm</file>
+    </qresource>
+</RCC>

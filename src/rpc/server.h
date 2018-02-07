@@ -123,7 +123,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * Luala RPC command dispatcher.
  */
 class CRPCTable
 {

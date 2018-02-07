@@ -1,0 +1,22 @@
+[Unit]
+Description=Luala's distributed currency daemon
+After=network.target
+
+[Service]
+User=lualacore
+Group=lualacore
+
+Type=forking
+PIDFile=/var/lib/lualad/lualad.pid
+ExecStart=/usr/bin/lualad -daemon -pid=/var/lib/lualad/lualad.pid \
+-conf=/etc/lualacore/luala.conf -datadir=/var/lib/lualad -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

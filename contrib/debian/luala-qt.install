@@ -1,0 +1,6 @@
+usr/local/bin/luala-qt usr/bin
+share/pixmaps/luala32.xpm usr/share/pixmaps
+share/pixmaps/luala16.xpm usr/share/pixmaps
+share/pixmaps/luala128.png usr/share/pixmaps
+debian/luala-qt.desktop usr/share/applications
+debian/luala-qt.protocol usr/share/kde4/services/

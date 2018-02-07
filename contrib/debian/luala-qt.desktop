@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Luala
+Comment=Luala P2P Cryptocurrency
+Comment[fr]=Luala, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Luala, eşten eşe kriptografik sanal para birimi
+Exec=luala-qt %u
+Terminal=false
+Type=Application
+Icon=luala128
+MimeType=x-scheme-handler/luala;
+Categories=Office;Finance;

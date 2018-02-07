@@ -1,10 +1,11 @@
 // Copyright (c) 2014-2017 The Dash Core developers
+// Copyright (c) 2017 - present The Luala Core developers
 
 #include "governance-validators.h"
 #include "univalue.h"
 #include "utilstrencodings.h"
 
-#include "test/test_dash.h"
+#include "test/test_luala.h"
 
 #include <boost/test/unit_test.hpp>
 

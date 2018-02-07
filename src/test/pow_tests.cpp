@@ -7,7 +7,7 @@
 #include "pow.h"
 #include "random.h"
 #include "util.h"
-#include "test/test_dash.h"
+#include "test/test_luala.h"
 
 #include <boost/test/unit_test.hpp>
 

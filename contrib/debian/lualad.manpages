@@ -1,0 +1,3 @@
+debian/manpages/lualad.1
+debian/manpages/luala.conf.5
+debian/manpages/luala-cli.1
